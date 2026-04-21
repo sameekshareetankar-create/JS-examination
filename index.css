@@ -1,0 +1,49 @@
+/* 1
+
+body {
+    font-family: Arial;
+    text-align: center;
+} 
+
+button {
+    padding: 10px 15px;
+    margin: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: darkblue;
+}
+
+
+table {
+    width: 90%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+
+th {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid lightgrey;
+}
+
+
+tr:nth-child(even) {
+    background-color: lightgrey;
+}
+
+tr:hover {
+    background-color: lightgrey;
+} */
+
